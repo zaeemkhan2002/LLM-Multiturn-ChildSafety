@@ -1,0 +1,13 @@
+model,group,n_strategies,break,lo,hi,substantive
+Gemini 3.5 Flash-Lite,Authority & persuasion appeals,5,49.3,42.4,56.4,31.7
+Gemini 3.5 Flash-Lite,Distancing & reverse framing,6,47.0,40.5,53.6,30.8
+Gemini 3.5 Flash-Lite,Format & obfuscation tricks,3,39.7,32.5,47.2,24.2
+Gemini 3.5 Flash-Lite,Roleplay & fiction,10,48.5,42.6,54.5,32.4
+GPT-6 Luna,Authority & persuasion appeals,5,73.8,65.7,81.4,64.0
+GPT-6 Luna,Distancing & reverse framing,6,67.5,59.5,75.2,55.8
+GPT-6 Luna,Format & obfuscation tricks,3,71.0,61.5,80.2,59.9
+GPT-6 Luna,Roleplay & fiction,10,71.5,63.1,79.2,59.9
+Claude Haiku 5.5,Authority & persuasion appeals,5,44.8,36.4,52.6,34.5
+Claude Haiku 5.5,Distancing & reverse framing,6,39.9,32.9,47.4,30.6
+Claude Haiku 5.5,Format & obfuscation tricks,3,32.1,24.6,39.3,26.2
+Claude Haiku 5.5,Roleplay & fiction,10,41.2,34.0,48.6,30.1

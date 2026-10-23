@@ -1,0 +1,5 @@
+prompt,n,break,break_lo,break_hi,substantive,subst_lo,subst_hi,partial_only,mean_first_break_turn
+General (T0),1080,51.9,44.9,58.9,34.7,27.7,41.6,17.1,2.7
+Socratic (T1),1080,37.1,30.2,43.8,20.1,14.4,26.2,17.0,3.4
+Socratic + on-topic (T2),1080,28.7,22.9,35.2,13.4,9.2,18.2,15.3,3.6
+Socratic + on-topic + safety rules (T3),1080,17.4,12.9,22.1,7.6,4.5,11.2,9.8,3.4

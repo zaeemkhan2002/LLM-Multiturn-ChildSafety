@@ -1,0 +1,4 @@
+model,n,break,break_lo,break_hi,substantive,subst_lo,subst_hi,partial_only,no_break,refusal_conversations,refusal_turns,any_refusal_turn,mean_first_break_turn,broken_by_turn3
+Gemini 3.5 Flash-Lite,2016,47.2,42.1,52.6,30.8,25.2,36.3,16.4,52.8,0.0,0.7,3.1,2.8,79.8
+GPT-6 Luna,2016,70.9,63.0,78.7,59.7,51.1,67.9,11.2,29.1,0.0,0.4,1.5,2.4,93.6
+Claude Haiku 5.5,2016,40.5,33.9,47.4,30.7,23.9,37.7,9.8,59.5,1.4,5.8,10.3,2.3,92.2

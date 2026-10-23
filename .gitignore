@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+Judge_Results/
+Judge_Results_STUB/
+checkpoint_*.csv
+benchmark_*.csv
