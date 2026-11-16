@@ -1,4 +1,4 @@
-# Just One More Question: Multi-Turn Jailbreaks Against LLM Tutors for Children
+# Multi-Turn Child-Safety Evaluation of LLM Tutors
 
 Code, prompts and data for a multi-turn red-teaming study of LLM tutors configured for a 12-year-old student. An adaptive attacker model (Gemma 4 31B) holds five-turn conversations with a tutor persona, using one of 24 jailbreak strategies to pursue one of 84 questions from MinorBench and KIDBench. An LLM judge (DeepSeek V4 Flash) labels every tutor reply as a break, a refusal or a helpful response.
 
