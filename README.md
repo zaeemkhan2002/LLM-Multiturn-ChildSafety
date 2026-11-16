@@ -29,6 +29,10 @@ analysis/
   outputs/                         tables (CSV) and figures (PDF/PNG) produced by analysis.py
 ```
 
+## Urdu extension
+
+The `urdu/` folder holds the follow-up study that reruns 192 question-strategy pairs in English, Urdu script and Roman Urdu. See `urdu/README.md`.
+
 ## Prompt conditions
 
 | Paper | Notebook name | Instructions |
